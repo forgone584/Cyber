@@ -22,6 +22,7 @@ body {
   max-height: 110%;
   max-width: 100%;
   position: relative;
+  margin-left: 0px;
 }
 
 .navsymbol {
